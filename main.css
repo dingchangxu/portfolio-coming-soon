@@ -17,3 +17,14 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
+
+.photo {
+    width: auto;
+    
+}
+.h1 {
+    text-align: center;
+}
+.h2 {
+    text-align: center;
+}
